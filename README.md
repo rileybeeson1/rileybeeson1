@@ -1,0 +1,5 @@
+- 👋 Hi, I’m riley beeson
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like trains.
